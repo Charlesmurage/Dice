@@ -47,14 +47,6 @@ h1{
     box-shadow: #444;
 }
 
-button{
-    color: red;
-    font-family: "Lobster", Sans-serif;
-    background: black;
-    border-radius: 15px;
-    box-shadow: #444;
-}
-
 .jumbotron{
 margin: 20px;
 padding: 20px;
