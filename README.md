@@ -28,7 +28,7 @@ The web page hosts the pig dice game. The game involves two players(Player 1 and
 There are no known bugs as at now but in case of any you may find please contact me.
 ## Technologies Used
 The languages used used to develop the website are HTML, CSS and JavaScript. The technologies used include:
-* Atom - Text editor
+* VS Code - Text editor
 * Bootstrap - content library
 * Git - version control environment
 * JQuery - content library
